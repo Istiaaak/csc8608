@@ -1,0 +1,6 @@
+airflow_home/
+mlruns/
+patchcore_cache/
+datasets/
+__pycache__/
+*.pyc
